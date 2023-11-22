@@ -1,0 +1,7 @@
+C:\Users\Sushant Hulawal\OneDrive\Desktop\practice\samplejenkin\samplejenkin\bin\Debug\samplejenkin.exe.config
+C:\Users\Sushant Hulawal\OneDrive\Desktop\practice\samplejenkin\samplejenkin\bin\Debug\samplejenkin.exe
+C:\Users\Sushant Hulawal\OneDrive\Desktop\practice\samplejenkin\samplejenkin\bin\Debug\samplejenkin.pdb
+C:\Users\Sushant Hulawal\OneDrive\Desktop\practice\samplejenkin\samplejenkin\obj\Debug\samplejenkin.csproj.AssemblyReference.cache
+C:\Users\Sushant Hulawal\OneDrive\Desktop\practice\samplejenkin\samplejenkin\obj\Debug\samplejenkin.csproj.CoreCompileInputs.cache
+C:\Users\Sushant Hulawal\OneDrive\Desktop\practice\samplejenkin\samplejenkin\obj\Debug\samplejenkin.exe
+C:\Users\Sushant Hulawal\OneDrive\Desktop\practice\samplejenkin\samplejenkin\obj\Debug\samplejenkin.pdb
