@@ -19,7 +19,7 @@ namespace samplejenkin
         static void Main()
         {
             Program p = new Program();
-            p.Addition(
+            p.Addition();
             Console.ReadLine();
 
         }
